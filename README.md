@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Bus%20app%20Images/buslocaator.jpg" alt="Bus Locator screenshot" width="400">
+</p>
+
 # 🚌 Bus Locator App
 
 ## 📌 Overview
